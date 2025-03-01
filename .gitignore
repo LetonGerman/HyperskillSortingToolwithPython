@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Sorting Tool with Python/*
+!/Sorting Tool with Python/task/
+/Sorting Tool with Python/task/*
+!/Sorting Tool with Python/task/main.py
+!/Sorting Tool with Python/task/out.txt

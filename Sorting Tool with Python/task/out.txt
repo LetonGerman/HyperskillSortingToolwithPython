@@ -1,0 +1,2 @@
+Total numbers: 7.
+Sorted data: -2 1 1 1 4 42 333
